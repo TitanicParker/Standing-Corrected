@@ -1,0 +1,19 @@
+{
+  "name": "The Correctable Record",
+  "short_name": "Correctable Record",
+  "description": "A compact handbook on corrigibility, reliance, and diagnostic governance.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf3e4",
+  "theme_color": "#fbf3e4",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
